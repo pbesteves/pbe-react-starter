@@ -18,7 +18,6 @@
   },
   "scripts": {
     "test": "jest --coverage --watchAll",
-    "start": "node app.js",
     "dev": "webpack-dev-server --hotOnly --open --mode development",
     "build": "webpack --mode production"
   },
